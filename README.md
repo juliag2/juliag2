@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliag2
-- 👀 I’m interested in coding, nursing, indoor rockclimbing and cooking.
+- 👀 I’m interested in coding, nursing, indoor rockclimbing, interpreting English<->German and cooking 🍲
 - 🌱 I’m currently learning how to be a nurse :DDD (and also C++ and Arabic)
 - 💞️ I’m looking to collaborate on smaller projects with scripting languages, or simple C(++)
 - 📫 How to reach me: via E-Mail :D
